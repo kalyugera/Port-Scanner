@@ -1,2 +1,2 @@
-# kalyug
-New Project on github
+# Port Scanner
+This will help to find open port through inputing IP address and list of ports.
